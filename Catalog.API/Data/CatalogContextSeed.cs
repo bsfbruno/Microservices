@@ -19,7 +19,7 @@ namespace Catalog.API.Data
             {
                 new Product()
                 {
-                    Id = "8242398ruqwh98u3298r829q3yr982q",
+                    Id = "8242398ruqwh98u3298r829q",
                     Name = "AlienWare",
                     Description = "AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare " +
                     "AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare " +
@@ -31,7 +31,7 @@ namespace Catalog.API.Data
                 },
                 new Product()
                 {
-                    Id = "8242398ruqwh2342398u3298r829q3yr982q",
+                    Id = "8242398ruqwh98u3298r8291",
                     Name = "Samsung",
                     Description = "Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung " +
                     "Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung Samsung " +
@@ -43,7 +43,7 @@ namespace Catalog.API.Data
                 },
                 new Product()
                 {
-                    Id = "8242398vdvdruqwh98u3298r829q3yr982q",
+                    Id = "8242398ruqwh98u3298r8292",
                     Name = "Asus",
                     Description = "Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus " +
                     "Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus Asus " +
@@ -55,7 +55,7 @@ namespace Catalog.API.Data
                 },
                 new Product()
                 {
-                    Id = "8242398fhfgruqwh98u3298r829q3yr982q",
+                    Id = "8242398ruqwh98u3298r829e",
                     Name = "Dell",
                     Description = "Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell " +
                     "Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell Dell " +
@@ -67,7 +67,7 @@ namespace Catalog.API.Data
                 },
                 new Product()
                 {
-                    Id = "8242398rjyyjuqwh98u3298r829q3yr982q",
+                    Id = "8242398ruqwh98u3298r829r",
                     Name = "Macbook",
                     Description = "Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook " +
                     "Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook Macbook " +
@@ -79,7 +79,7 @@ namespace Catalog.API.Data
                 },
                 new Product()
                 {
-                    Id = "824239835435ruqwh98u3298r829q3yr982q",
+                    Id = "8242398ruqwh98u3298r829m",
                     Name = "AlienWare",
                     Description = "AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare " +
                     "AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare AlienWare " +
